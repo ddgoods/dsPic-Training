@@ -9,5 +9,5 @@
 #define	DEFINES_H
 #endif
 
-#define FCY 20000000
+#define FCY 5000000
 
