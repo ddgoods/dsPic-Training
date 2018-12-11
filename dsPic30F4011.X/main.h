@@ -14,5 +14,5 @@
 #include "defines.h"
 #include <libpic30.h>
 
-
+void Timer_1_Init(void);
 

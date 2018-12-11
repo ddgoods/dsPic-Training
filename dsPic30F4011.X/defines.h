@@ -9,5 +9,7 @@
 #define	DEFINES_H
 #endif
 
-#define FCY 20000000
+#define FOSC 20000000
+#define PRESCALAR 64
+#define ONE_MILLIS (FOSC/4/PRESCALAR)*.001
 
